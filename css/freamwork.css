@@ -1,4 +1,8 @@
 /* flex & grid */
+.d-flex{
+    display: flex;
+}
+
 .center-flex {
     display: flex;
     justify-content: center;
@@ -61,3 +65,17 @@
      text-align: center;
 }
 /*  End position */
+/* button */
+.btn-shape{
+    padding: 10px 25px;
+border-radius: 18px;
+border: none;
+color: var(--blue-color);
+font-weight: bold;
+}
+/* End button */
+/* pareagraph */
+.l-h{
+     line-height: 1.6;
+}
+/* End pareagraph */
